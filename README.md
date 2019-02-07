@@ -4,7 +4,7 @@ Byron Brook
 Danny Harbeson  
 Nelly Amenyogbe  
 Rym Ben-Othman  
-Tobias R. Kollmann
+Tobias R. Kollmann  
 Radhouane Aniba
 
 Infectious disease and sepsis represent a serious problem in early life. Much of the associated morbidity and mortality is presumed to relate to fundamental differences between neonatal and adult immunity. Mechanistic insight into the way newborns’ immune systems handle infectious threats is lacking; as a result, there has only been limited success in providing effective immunomodulatory interventions to reduce mortality. Given the complexity of the host-pathogen interactions, neonatal mouse models can offer potential avenues providing valuable data. However, the small size of neonatal mice hampers the ability to collect biological samples without sacrificing the animals. Further, the lack of a standardized metric to quantify mouse health increases reliance on correlative biomarkers without a known relationship to ‘clinical’ outcome. To address this bottleneck, we developed a system that allows assessment neonatal mouse health in a readily standardized and quantifiable manner. The resulting health scores require no special equipment or sample collection and can be assigned in less than 20 seconds. Importantly, the health scores are highly predictive of survival.  
